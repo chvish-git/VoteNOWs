@@ -1,2 +1,2 @@
 # VoteNOWs
-a voting ballot 
+a secret voting ballot 
